@@ -1,0 +1,4 @@
+34. Block vs Inline Element (div and span)
+div adalah elemen pembagi konten
+span adalah container/wadah umum untuk menyusun konten
+- span digunakan di inline element
